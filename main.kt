@@ -1,3 +1,3 @@
 fun main() {
-    print("Build main")
+    var game = Game35()    
 }
